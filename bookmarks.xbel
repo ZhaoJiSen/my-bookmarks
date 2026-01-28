@@ -1,0 +1,195 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
+<xbel version="1.0">
+<!--- highestId :63: for Floccus bookmark sync browser extension -->
+
+<folder id="1">
+  <title>B圈</title>
+  <bookmark href="https://www.binance.com/zh-CN/markets/overview" id="6">
+    <title>币安</title>
+  </bookmark>
+  <bookmark href="https://www.bybit.com/zh-MY/markets/overview" id="7">
+    <title>bybit</title>
+  </bookmark>
+  <bookmark href="https://www.coinglass.com/zh" id="8">
+    <title>CoinGlass</title>
+  </bookmark>
+  <bookmark href="https://coinmarketcap.com/zh/" id="9">
+    <title>CoinMarketCap</title>
+  </bookmark>
+  <bookmark href="https://www.jin10.com/" id="10">
+    <title>金十数据</title>
+  </bookmark>
+</folder>
+<folder id="2">
+  <title>工作</title>
+  <bookmark href="https://ci3.fit2cloud.cn/" id="11">
+    <title>Jenkins</title>
+  </bookmark>
+  <bookmark href="https://wiki.fit2cloud.com/#starred" id="12">
+    <title>Wiki</title>
+  </bookmark>
+  <bookmark href="https://console.cloud.tencent.com/lighthouse/instance/index?rid=1" id="13">
+    <title>腾讯云</title>
+  </bookmark>
+  <bookmark href="https://yun.cloudbility.com/Limerencedtd/devOps/host/cloud/53485" id="14">
+    <title>行云管家</title>
+  </bookmark>
+  <bookmark href="https://www.figma.com/design/m105ifv3owohRen7Bg343Q/JumpServer--%E5%9B%BD%E9%99%85%E7%89%88?node-id=349-22013&amp;p=f&amp;t=pKjAAU1y3MJ7ZVOC-0" id="15">
+    <title>Figma</title>
+  </bookmark>
+</folder>
+<folder id="3">
+  <title>前端</title>
+  <bookmark href="https://cn.vite.dev/" id="16">
+    <title>Vite</title>
+  </bookmark>
+  <bookmark href="https://www.npmjs.com/" id="17">
+    <title>npm</title>
+  </bookmark>
+  <bookmark href="https://v2.tauri.app/zh-cn/" id="18">
+    <title>Tauri</title>
+  </bookmark>
+  <bookmark href="https://icones.js.org/collection/mingcute?s=edit" id="19">
+    <title>Icônes</title>
+  </bookmark>
+  <bookmark href="https://oxc.rs/" id="20">
+    <title>Oxc</title>
+  </bookmark>
+  <bookmark href="https://fluent2.microsoft.design/" id="21">
+    <title>Fluent 2</title>
+  </bookmark>
+  <bookmark href="https://theme-plume.vuejs.press/guide/usage/#%E6%9B%B4%E6%96%B0%E4%B8%BB%E9%A2%98" id="22">
+    <title>Plume</title>
+  </bookmark>
+  <bookmark href="https://rxresu.me/" id="23">
+    <title>Resume</title>
+  </bookmark>
+  <bookmark href="https://starship.rs/zh-CN/guide/" id="24">
+    <title>Starship</title>
+  </bookmark>
+</folder>
+<folder id="4">
+  <title>Vue</title>
+  <bookmark href="https://vuejs.org/" id="25">
+    <title>Vue.js</title>
+  </bookmark>
+  <bookmark href="https://pinia.vuejs.org/zh/introduction.html" id="26">
+    <title>Pinia</title>
+  </bookmark>
+  <bookmark href="https://www.i18next.com/overview/api#addresourcebundle" id="27">
+    <title>i18next</title>
+  </bookmark>
+  <bookmark href="https://vueuse.nodejs.cn/guide/" id="28">
+    <title>VueUse</title>
+  </bookmark>
+  <bookmark href="https://nuxtcharts.com/" id="29">
+    <title>Nuxt Charts</title>
+  </bookmark>
+  <bookmark href="https://vue-bits.dev/" id="30">
+    <title>Vue Bits</title>
+  </bookmark>
+  <bookmark href="https://ui.nuxt.com/docs/getting-started/installation/nuxt" id="31">
+    <title>Nuxt UI</title>
+  </bookmark>
+  <bookmark href="https://www.naiveui.com/zh-CN/os-theme" id="32">
+    <title>Naive UI</title>
+  </bookmark>
+  <bookmark href="https://volt.primevue.org/" id="33">
+    <title>Volt UI</title>
+  </bookmark>
+  <bookmark href="https://vue-data-ui.graphieros.com/" id="34">
+    <title>Vue Data UI</title>
+  </bookmark>
+  <bookmark href="https://primevue.org/" id="35">
+    <title>PrimeVue</title>
+  </bookmark>
+  <bookmark href="https://element-plus.org/zh-CN/" id="36">
+    <title>Element Plus</title>
+  </bookmark>
+</folder>
+<folder id="5">
+  <title>React</title>
+  <bookmark href="https://react.dev/" id="37">
+    <title>React.js</title>
+  </bookmark>
+  <bookmark href="https://nextjs.org/" id="38">
+    <title>Next.js</title>
+  </bookmark>
+  <bookmark href="https://ui.shadcn.com/" id="39">
+    <title>Shadcn</title>
+  </bookmark>
+  <bookmark href="https://ant-design.antgroup.com/components/overview-cn/?theme=dark" id="40">
+    <title>Ant Design</title>
+  </bookmark>
+  <bookmark href="https://zustand-demo.pmnd.rs/" id="41">
+    <title>Zustand</title>
+  </bookmark>
+  <bookmark href="https://ahooks.js.org/" id="42">
+    <title>ahooks</title>
+  </bookmark>
+  <bookmark href="https://www.radix-ui.com/" id="43">
+    <title>Radix UI</title>
+  </bookmark>
+  <bookmark href="https://reactbits.dev/get-started/installation" id="44">
+    <title>React Bits</title>
+  </bookmark>
+</folder>
+<folder id="45">
+  <title>后端</title>
+  <bookmark href="https://actix.rs/" id="47">
+    <title>Actix</title>
+  </bookmark>
+  <bookmark href="https://rocket.rs/guide/v0.5/" id="48">
+    <title>Rocket</title>
+  </bookmark>
+  <bookmark href="https://crates.io/" id="49">
+    <title>Crates.io</title>
+  </bookmark>
+  <bookmark href="https://kaisery.github.io/trpl-zh-cn/title-page.html" id="50">
+    <title>Rust 程序设计语言</title>
+  </bookmark>
+</folder>
+<folder id="46">
+  <title>笔记</title>
+  <bookmark href="https://zhaojisen.github.io/short-note/" id="51">
+    <title>弟弟森的编程小笔记</title>
+  </bookmark>
+  <bookmark href="https://www.yuque.com/u1598738/vqazlv" id="52">
+    <title>面试训练营内部资料</title>
+  </bookmark>
+  <bookmark href="https://message163.github.io/react-docs/" id="53">
+    <title>React 笔记</title>
+  </bookmark>
+  <bookmark href="https://btcdayu.gitbook.io/dayu" id="54">
+    <title>聪明的投资者（币圈版）</title>
+  </bookmark>
+  <bookmark href="https://juejin.cn/post/7481485414861602826" id="55">
+    <title>webpack</title>
+  </bookmark>
+  <bookmark href="https://u19tul1sz9g.feishu.cn/docx/L1fZdqpZco5zvbxutC1cZXfenXc" id="56">
+    <title>Feishu Docs</title>
+  </bookmark>
+  <bookmark href="https://gitee.com/dev-edu/vue3" id="57">
+    <title>DEV-Edu/vue3</title>
+  </bookmark>
+</folder>
+<folder id="58">
+  <title>其他</title>
+  <bookmark href="https://sms-activate.io/cn" id="59">
+    <title>SMS-Activate</title>
+  </bookmark>
+  <bookmark href="https://www.panewslab.com/zh" id="60">
+    <title>PANews</title>
+  </bookmark>
+  <bookmark href="https://hive.melgeek.com/" id="61">
+    <title>MelGeek Hive</title>
+  </bookmark>
+  <bookmark href="https://pixso.cn/app/recent" id="62">
+    <title>最近打开-Pixso</title>
+  </bookmark>
+  <bookmark href="https://mastergo.com/file/111931724627229?fileOpenFrom=project&amp;page_id=7%3A43788&amp;shareId=111931724627229" id="63">
+    <title>供应商OEM改造需求 - 设计文件</title>
+  </bookmark>
+</folder>
+</xbel>
