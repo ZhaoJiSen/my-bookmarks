@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :63: for Floccus bookmark sync browser extension -->
+<!--- highestId :64: for Floccus bookmark sync browser extension -->
 
 <folder id="1">
   <title>B圈</title>
@@ -190,6 +190,9 @@
   </bookmark>
   <bookmark href="https://mastergo.com/file/111931724627229?fileOpenFrom=project&amp;page_id=7%3A43788&amp;shareId=111931724627229" id="63">
     <title>供应商OEM改造需求 - 设计文件</title>
+  </bookmark>
+  <bookmark href="https://nf.video/info?modules=ticket" id="64">
+    <title>我的 次世代合租平台</title>
   </bookmark>
 </folder>
 </xbel>
