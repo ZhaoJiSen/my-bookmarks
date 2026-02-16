@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :64: for Floccus bookmark sync browser extension -->
+<!--- highestId :73: for Floccus bookmark sync browser extension -->
 
 <folder id="1">
   <title>B圈</title>
@@ -38,6 +38,15 @@
   <bookmark href="https://www.figma.com/design/m105ifv3owohRen7Bg343Q/JumpServer--%E5%9B%BD%E9%99%85%E7%89%88?node-id=349-22013&amp;p=f&amp;t=pKjAAU1y3MJ7ZVOC-0" id="15">
     <title>Figma</title>
   </bookmark>
+  <bookmark href="https://jumpserver-test.cmdb.cc/ui/#/console/dashboard" id="65">
+    <title>test</title>
+  </bookmark>
+  <bookmark href="https://www.tapd.cn/tapd_fe/45454465/story/list?useScene=storyList&amp;groupType=&amp;conf_id=1145454465001065782" id="66">
+    <title>TAPD</title>
+  </bookmark>
+  <bookmark href="https://grok.com/" id="67">
+    <title>Grok</title>
+  </bookmark>
 </folder>
 <folder id="3">
   <title>前端</title>
@@ -67,6 +76,9 @@
   </bookmark>
   <bookmark href="https://starship.rs/zh-CN/guide/" id="24">
     <title>Starship</title>
+  </bookmark>
+  <bookmark href="https://lucide.dev/" id="68">
+    <title>Lucide</title>
   </bookmark>
 </folder>
 <folder id="4">
@@ -106,6 +118,9 @@
   </bookmark>
   <bookmark href="https://element-plus.org/zh-CN/" id="36">
     <title>Element Plus</title>
+  </bookmark>
+  <bookmark href="https://www.shadcn-vue.com/" id="69">
+    <title>Shadcn</title>
   </bookmark>
 </folder>
 <folder id="5">
@@ -195,4 +210,16 @@
     <title>银河录像局</title>
   </bookmark>
 </folder>
+<bookmark href="https://github.com/" id="70">
+  <title>GitHub</title>
+</bookmark>
+<bookmark href="https://v2ex.com/" id="71">
+  <title>V2EX</title>
+</bookmark>
+<bookmark href="https://www.reddit.com/" id="72">
+  <title>Reddit</title>
+</bookmark>
+<bookmark href="https://juejin.cn/" id="73">
+  <title>稀土掘金</title>
+</bookmark>
 </xbel>
