@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :73: for Floccus bookmark sync browser extension -->
+<!--- highestId :74: for Floccus bookmark sync browser extension -->
 
 <folder id="1">
   <title>B圈</title>
@@ -85,6 +85,9 @@
   <title>Vue</title>
   <bookmark href="https://vuejs.org/" id="25">
     <title>Vue.js</title>
+  </bookmark>
+  <bookmark href="https://nuxt.com/" id="74">
+    <title>Nuxt: The Full-Stack Vue Framework</title>
   </bookmark>
   <bookmark href="https://pinia.vuejs.org/zh/introduction.html" id="26">
     <title>Pinia</title>
