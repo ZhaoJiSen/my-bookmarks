@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :78: for Floccus bookmark sync browser extension -->
+<!--- highestId :79: for Floccus bookmark sync browser extension -->
 
 <bookmark href="https://www.google.com/maps/@40.0509592,116.6646244,7z?entry=ttu&amp;g_ep=EgoyMDI2MDMwMi4wIKXMDSoASAFQAw%3D%3D" id="76">
   <title>地图</title>
@@ -190,6 +190,9 @@
   </bookmark>
   <bookmark href="https://duyiedu.yuque.com/fmi7t1/nwhh7g/hi253wxhvtgda14x#OhpZw" id="78">
     <title>架构课程资料地址</title>
+  </bookmark>
+  <bookmark href="https://duyiedu.yuque.com/fmi7t1/nwhh7g/wle7sg?" id="79">
+    <title>(新)前端文件资料</title>
   </bookmark>
 </folder>
 <folder id="58">
