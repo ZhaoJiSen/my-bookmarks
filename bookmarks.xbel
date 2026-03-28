@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :82: for Floccus bookmark sync browser extension -->
+<!--- highestId :83: for Floccus bookmark sync browser extension -->
 
 <bookmark href="https://www.google.com/maps/@40.0509592,116.6646244,7z?entry=ttu&amp;g_ep=EgoyMDI2MDMwMi4wIKXMDSoASAFQAw%3D%3D" id="76">
   <title>地图</title>
@@ -13,9 +13,6 @@
   <title>B圈</title>
   <bookmark href="https://www.binance.com/zh-CN/markets/overview" id="6">
     <title>币安</title>
-  </bookmark>
-  <bookmark href="https://www.bybit.com/zh-MY/markets/overview" id="7">
-    <title>bybit</title>
   </bookmark>
   <bookmark href="https://www.coinglass.com/zh" id="8">
     <title>CoinGlass</title>
@@ -203,9 +200,6 @@
 </folder>
 <folder id="58">
   <title>其他</title>
-  <bookmark href="https://sms-activate.io/cn" id="59">
-    <title>SMS-Activate</title>
-  </bookmark>
   <bookmark href="https://www.panewslab.com/zh" id="60">
     <title>PANews</title>
   </bookmark>
@@ -223,6 +217,9 @@
   </bookmark>
   <bookmark href="https://hero-sms.com/cn" id="81">
     <title>hero sms</title>
+  </bookmark>
+  <bookmark href="https://sms-activate.io/cn" id="83">
+    <title>SMS-Activate</title>
   </bookmark>
 </folder>
 </xbel>
