@@ -1,13 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :84: for Floccus bookmark sync browser extension -->
+<!--- highestId :85: for Floccus bookmark sync browser extension -->
 
 <bookmark href="https://www.google.com/maps/@40.0509592,116.6646244,7z?entry=ttu&amp;g_ep=EgoyMDI2MDMwMi4wIKXMDSoASAFQAw%3D%3D" id="76">
   <title>地图</title>
 </bookmark>
 <bookmark href="https://stitch.withgoogle.com/" id="82">
   <title>stitch</title>
+</bookmark>
+<bookmark href="https://x.com/home" id="85">
+  <title>推特</title>
 </bookmark>
 <bookmark href="https://www.xiaohongshu.com/explore" id="84">
   <title>小红书</title>
