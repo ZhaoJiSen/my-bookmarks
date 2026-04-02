@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :85: for Floccus bookmark sync browser extension -->
+<!--- highestId :86: for Floccus bookmark sync browser extension -->
 
 <bookmark href="https://www.google.com/maps/@40.0509592,116.6646244,7z?entry=ttu&amp;g_ep=EgoyMDI2MDMwMi4wIKXMDSoASAFQAw%3D%3D" id="76">
   <title>地图</title>
@@ -28,6 +28,9 @@
   </bookmark>
   <bookmark href="https://www.jin10.com/" id="10">
     <title>金十数据</title>
+  </bookmark>
+  <bookmark href="https://www.okx.com/zh-hans/trade-swap/btc-usdt-swap#workspaceId=-4" id="86">
+    <title>欧易</title>
   </bookmark>
 </folder>
 <folder id="2">
