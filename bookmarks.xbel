@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :86: for Floccus bookmark sync browser extension -->
+<!--- highestId :87: for Floccus bookmark sync browser extension -->
 
 <bookmark href="https://www.google.com/maps/@40.0509592,116.6646244,7z?entry=ttu&amp;g_ep=EgoyMDI2MDMwMi4wIKXMDSoASAFQAw%3D%3D" id="76">
   <title>地图</title>
@@ -94,6 +94,9 @@
   </bookmark>
   <bookmark href="https://skills.sh/" id="80">
     <title>skills.sh</title>
+  </bookmark>
+  <bookmark href="http://npmx.dev/" id="87">
+    <title>npmx</title>
   </bookmark>
 </folder>
 <folder id="4">
