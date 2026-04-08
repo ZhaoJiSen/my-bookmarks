@@ -6,9 +6,6 @@
 <bookmark href="https://www.google.com/maps/@40.0509592,116.6646244,7z?entry=ttu&amp;g_ep=EgoyMDI2MDMwMi4wIKXMDSoASAFQAw%3D%3D" id="76">
   <title>地图</title>
 </bookmark>
-<bookmark href="https://stitch.withgoogle.com/" id="82">
-  <title>stitch</title>
-</bookmark>
 <bookmark href="https://x.com/home" id="85">
   <title>推特</title>
 </bookmark>
@@ -62,6 +59,9 @@
   <bookmark href="https://www.npmjs.com/" id="17">
     <title>npm</title>
   </bookmark>
+  <bookmark href="http://npmx.dev/" id="87">
+    <title>npmx</title>
+  </bookmark>
   <bookmark href="https://v2.tauri.app/zh-cn/" id="18">
     <title>Tauri</title>
   </bookmark>
@@ -73,9 +73,6 @@
   </bookmark>
   <bookmark href="https://fluent2.microsoft.design/" id="21">
     <title>Fluent 2</title>
-  </bookmark>
-  <bookmark href="https://theme-plume.vuejs.press/guide/usage/#%E6%9B%B4%E6%96%B0%E4%B8%BB%E9%A2%98" id="22">
-    <title>Plume</title>
   </bookmark>
   <bookmark href="https://rxresu.me/" id="23">
     <title>Resume</title>
@@ -89,8 +86,8 @@
   <bookmark href="https://skills.sh/" id="80">
     <title>skills.sh</title>
   </bookmark>
-  <bookmark href="http://npmx.dev/" id="87">
-    <title>npmx</title>
+  <bookmark href="https://stitch.withgoogle.com/" id="82">
+    <title>stitch</title>
   </bookmark>
 </folder>
 <folder id="4">
