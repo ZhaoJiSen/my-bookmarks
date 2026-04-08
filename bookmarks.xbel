@@ -56,23 +56,23 @@
   <bookmark href="https://cn.vite.dev/" id="16">
     <title>Vite</title>
   </bookmark>
+  <bookmark href="https://oxc.rs/" id="20">
+    <title>Oxc</title>
+  </bookmark>
   <bookmark href="https://www.npmjs.com/" id="17">
     <title>npm</title>
   </bookmark>
   <bookmark href="http://npmx.dev/" id="87">
     <title>npmx</title>
   </bookmark>
-  <bookmark href="https://v2.tauri.app/zh-cn/" id="18">
-    <title>Tauri</title>
-  </bookmark>
   <bookmark href="https://icones.js.org/collection/mingcute?s=edit" id="19">
     <title>Icônes</title>
   </bookmark>
-  <bookmark href="https://oxc.rs/" id="20">
-    <title>Oxc</title>
-  </bookmark>
   <bookmark href="https://fluent2.microsoft.design/" id="21">
     <title>Fluent 2</title>
+  </bookmark>
+  <bookmark href="https://v2.tauri.app/zh-cn/" id="18">
+    <title>Tauri</title>
   </bookmark>
   <bookmark href="https://rxresu.me/" id="23">
     <title>Resume</title>
