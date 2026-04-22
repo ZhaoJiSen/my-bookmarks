@@ -17,6 +17,9 @@
   <bookmark href="https://www.binance.com/zh-CN/markets/overview" id="6">
     <title>币安</title>
   </bookmark>
+  <bookmark href="https://cn.tradingview.com/chart/J5M9CUTb/?symbol=BINANCE%3ABTCUSD.P" id="89">
+    <title>TradingView</title>
+  </bookmark>
   <bookmark href="https://www.coinglass.com/zh" id="8">
     <title>CoinGlass</title>
   </bookmark>
@@ -25,12 +28,6 @@
   </bookmark>
   <bookmark href="https://www.jin10.com/" id="10">
     <title>金十数据</title>
-  </bookmark>
-  <bookmark href="https://cn.tradingview.com/chart/J5M9CUTb/?symbol=BINANCE%3ABTCUSD.P" id="89">
-    <title>TradingView</title>
-  </bookmark>
-  <bookmark href="https://www.okx.com/zh-hans/trade-swap/btc-usdt-swap#workspaceId=-4" id="90">
-    <title>欧易</title>
   </bookmark>
 </folder>
 <folder id="2">
